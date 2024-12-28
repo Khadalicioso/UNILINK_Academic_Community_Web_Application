@@ -4,11 +4,13 @@
 
 ## Project Overview
 
-UNILINK is an innovative web application designed to enhance the academic experience for students by providing a platform for community engagement and personal productivity. This project is part of the SIA101 – System Integration and Architecture 1 course.
+**UNILINK** is an innovative web application designed to enhance the academic experience for students by providing a platform for community engagement and personal productivity. This project is part of the SIA101 – System Integration and Architecture 1 course.
 
-**Note:** This super system is not yet fully integrated.
+> **Note:** This super system is not yet fully integrated.
 
-## Languages Used
+---
+
+## Languages and Technologies Used
 
 - **HTML**: The standard markup language used to create the structure of web pages.
 - **CSS**: A style sheet language used for describing the presentation of a document written in HTML, including layout, colors, and fonts.
@@ -18,9 +20,9 @@ UNILINK is an innovative web application designed to enhance the academic experi
 - **Bootstrap**: A front-end framework for developing responsive and mobile-first websites, providing pre-designed components and styles.
 - **Google Authentication API**: An API that allows users to authenticate using their Google accounts, providing a secure and convenient login method.
 
-## Subsystems
+---
 
-The UNILINK application consists of the following key subsystems:
+## Key Subsystems
 
 1. **Community Board and Personal Productivity Suite**
 
@@ -36,10 +38,19 @@ The UNILINK application consists of the following key subsystems:
    - An interactive platform that gamifies the learning experience.
    - Includes educational games and challenges to enhance student engagement and knowledge retention.
 
+---
+
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for more details.
+
+---
 
 ## Acknowledgments
 
-We would like to thank our instructors and peers for their support and feedback throughout the development of this project. We also extend our gratitude to all the developers who contributed to this project. Additionally, we would like to thank all the researchers and project managers for their invaluable contributions. Finally, a special thanks to the UI/UX designers for their creative input and design expertise.
+We would like to express our gratitude to:
+
+- Our instructors and peers for their support and feedback throughout the development of this project.
+- All the developers who contributed to this project.
+- All the researchers and project managers for their invaluable contributions.
+- The UI/UX designers for their creative input and design expertise.
