@@ -8,6 +8,16 @@ UNILINK is an innovative web application designed to enhance the academic experi
 
 **Note:** This super system is not yet fully integrated.
 
+## Languages Used
+
+- **HTML**: The standard markup language used to create the structure of web pages.
+- **CSS**: A style sheet language used for describing the presentation of a document written in HTML, including layout, colors, and fonts.
+- **JavaScript**: A programming language that enables interactive web pages and is an essential part of web applications.
+- **PHP**: A server-side scripting language used for web development to create dynamic page content and manage databases.
+- **MySQL**: A relational database management system used to store, retrieve, and manage data for the application.
+- **Bootstrap**: A front-end framework for developing responsive and mobile-first websites, providing pre-designed components and styles.
+- **Google Authentication API**: An API that allows users to authenticate using their Google accounts, providing a secure and convenient login method.
+
 ## Subsystems
 
 The UNILINK application consists of the following key subsystems:
