@@ -33,3 +33,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Acknowledgments
 
 We would like to thank our instructors and peers for their support and feedback throughout the development of this project.
+We also extend our gratitude to all the developers who contributed to this project.
+Additionally, we would like to thank all the researchers and project managers for their invaluable contributions.
